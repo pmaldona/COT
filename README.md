@@ -1,2 +1,2 @@
-# COT
+# crn
 Structural Reaction Network Analyzer
